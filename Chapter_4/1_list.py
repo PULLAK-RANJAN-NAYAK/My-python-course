@@ -7,3 +7,5 @@ list[0] = "mango" # As you can see you can change an string in the list which sh
 print(list[0])
 
 print(list[1:4])
+
+print(len(list[0])) # This will give the length of the string in the list

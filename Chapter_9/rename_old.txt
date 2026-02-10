@@ -1,0 +1,8 @@
+I was the old file named rename_old.txt and the contents are being copied in the new file 
+renmae_new
+
+So the best way is to first make a copy of the file you want to rename and copy the content
+in the new file and then delete the older file 
+
+or If you want to rename the same file name you can use modules like "os module"
+or "SH util module"

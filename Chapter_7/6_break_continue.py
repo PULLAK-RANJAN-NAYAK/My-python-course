@@ -1,10 +1,10 @@
 # Break stops the loop immediately while Continue skips the current iteration 
 
-# for i in range(100):
-#     if(i == 35):
-#         print("Found 35")
-#         break     # Foget everything and exit the loop
-#     print(i)      # It stops at 35 
+for i in range(100):
+    if(i == 35):
+        print("Found 35")
+        break     # Foget everything and exit the loop
+    print(i)      # It stops at 35 
 
     
                                      # Run both the programs and you will understand
